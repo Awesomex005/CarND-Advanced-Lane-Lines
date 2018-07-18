@@ -15,6 +15,8 @@ Mine steps of this project are the following:
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
+---
+
 [//]: # (Image References)
 
 [image1]: https://raw.githubusercontent.com/Awesomex005/CarND-Advanced-Lane-Lines/master/output_images/calibration2_dist_vs_undist.jpg
